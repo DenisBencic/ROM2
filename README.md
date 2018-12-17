@@ -10,4 +10,6 @@ V drugi nalogi (teorija števil bi dokazal nekaj dejstev, ki veljajo za naravna
 V tretji nalogi (matematièna analiza) bi analiziral bolj kompliciran primer realne
 funkcije s pomoèjo teorije funkcij in infinitezimalnega raèuna in jo narisal v
 ravnini. V èetrti nalogi (linearna algebra) bi s pomoèjo analitiène geometrije in
-vektorjev analiziral lastnosti telesa, danega s kooridnatami v prostoru in ga narisal.
+vektorjev izraèunal obseg, plošèino, notranje kote ter središèe oèrtane krožnice 
+danega trikotnika v prostoru. Trikotnik in njemu oèrtano krožnico bi nato izrisal v 
+ravnini z = 0, saj Mathematica nima vgrajene funkcije za izris krožnice v prostoru.
