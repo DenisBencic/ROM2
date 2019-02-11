@@ -12,4 +12,4 @@ funkcije s pomoèjo teorije funkcij in infinitezimalnega raèuna in jo narisal v
 ravnini. V èetrti nalogi (linearna algebra) bi s pomoèjo analitiène geometrije in
 vektorjev izraèunal obseg, plošèino, notranje kote ter središèe oèrtane krožnice 
 danega trikotnika v prostoru. Trikotnik in njemu oèrtano krožnico bi nato izrisal v 
-ravnini z = 0, saj Mathematica nima vgrajene funkcije za izris krožnice v prostoru.
+ravnini xy, saj Mathematica nima vgrajene funkcije za izris krožnice v prostoru.
